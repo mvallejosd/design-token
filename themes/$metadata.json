@@ -3,6 +3,8 @@
     "core",
     "ebiz",
     "typographyCore",
-    "typographyEmail"
+    "typographyEmail",
+    "Light",
+    "Dark"
   ]
 }
