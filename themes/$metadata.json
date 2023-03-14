@@ -1,10 +1,10 @@
 {
   "tokenSetOrder": [
     "core",
-    "ebiz",
-    "typographyCore",
-    "typographyEmail",
+    "palette",
     "Light",
-    "Dark"
+    "Dark",
+    "typographyCore",
+    "typographyEmail"
   ]
 }

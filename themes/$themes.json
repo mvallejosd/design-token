@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "b84a32707c03e2f6abeee051b8ead8fa029ff7c1",
+    "name": "Brand Dark",
+    "selectedTokenSets": {
+      "core": "source",
+      "Dark": "enabled",
+      "palette": "enabled",
+      "typographyCore": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b59543d01b6e5f9c669ce80ef0bea5ccbf4e34af",
+    "name": "Brand Light",
+    "selectedTokenSets": {
+      "core": "source",
+      "palette": "enabled",
+      "Light": "enabled",
+      "typographyCore": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

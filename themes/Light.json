@@ -1,1 +1,34 @@
-{}
+{
+  "base": {
+    "color": {
+      "bg": {
+        "primary": {
+          "value": "{base.color.neutral.50}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{base.color.neutral.100}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{base.color.indigo.700}",
+          "type": "color"
+        }
+      },
+      "fg": {
+        "default": {
+          "value": "{base.color.neutral.700}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{base.color.neutral.50}",
+          "type": "color"
+        },
+        "muted": {
+          "value": "{base.color.neutral.600}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
