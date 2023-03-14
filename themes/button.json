@@ -1,0 +1,12 @@
+{
+  "color": {
+    "bg": {
+      "button": {
+        "primary": {
+          "value": "{base.color.fg.muted}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

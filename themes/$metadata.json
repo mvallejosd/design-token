@@ -5,6 +5,7 @@
     "Light",
     "Dark",
     "typographyCore",
-    "typographyEmail"
+    "typographyEmail",
+    "button"
   ]
 }
