@@ -25,7 +25,7 @@
           "type": "color"
         },
         "muted": {
-          "value": "{core.color._neutral.100}",
+          "value": "{color._neutral.100}",
           "type": "color"
         }
       }
