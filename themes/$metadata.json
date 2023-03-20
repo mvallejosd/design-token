@@ -1,11 +1,14 @@
 {
   "tokenSetOrder": [
     "core",
-    "palette",
-    "Light",
-    "Dark",
+    "ebiz-palette",
+    "ebiz-light",
+    "ebiz-dark",
     "typographyCore",
     "typographyEmail",
-    "button"
+    "button",
+    "ndc-palette",
+    "ndc-light",
+    "ndc-dark"
   ]
 }
