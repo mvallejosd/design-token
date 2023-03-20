@@ -7,9 +7,6 @@
       "typographyCore": "enabled",
       "button": "enabled",
       "ebiz-palette": "enabled",
-      "ndc-palette": "disabled",
-      "ndc-light": "disabled",
-      "ndc-dark": "disabled",
       "ebiz-light": "enabled"
     },
     "$figmaStyleReferences": {}
@@ -22,11 +19,7 @@
       "typographyCore": "enabled",
       "button": "enabled",
       "ebiz-palette": "enabled",
-      "ebiz-dark": "enabled",
-      "ndc-palette": "disabled",
-      "ndc-light": "disabled",
-      "ndc-dark": "disabled",
-      "ebiz-light": "disabled"
+      "ebiz-dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
