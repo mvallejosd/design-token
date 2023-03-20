@@ -3,33 +3,33 @@
     "desktop": {
       "h1": {
         "value": {
-          "fontFamily": "{core.font-family.Trebuchet}",
-          "lineHeight": "{core.line-height.2500}",
-          "fontSize": "{core.font-size.scaled.2000}"
+          "fontFamily": "{font-family.Trebuchet}",
+          "lineHeight": "{line-height.2500}",
+          "fontSize": "{font-size.scaled.2000}"
         },
         "type": "typography"
       },
       "h2": {
         "value": {
-          "fontFamily": "{core.font-family.Trebuchet}",
-          "lineHeight": "{core.line-height.1750}",
-          "fontSize": "{core.font-size.scaled.1500}"
+          "fontFamily": "{font-family.Trebuchet}",
+          "lineHeight": "{line-height.1750}",
+          "fontSize": "{font-size.scaled.1500}"
         },
         "type": "typography"
       },
       "h3": {
         "value": {
-          "fontFamily": "{core.font-family.Trebuchet}",
-          "lineHeight": "{core.line-height.1750}",
-          "fontSize": "{core.font-size.scaled.1125}"
+          "fontFamily": "{font-family.Trebuchet}",
+          "lineHeight": "{line-height.1750}",
+          "fontSize": "{font-size.scaled.1125}"
         },
         "type": "typography"
       },
       "h4": {
         "value": {
-          "fontFamily": "{core.font-family.Trebuchet}",
-          "lineHeight": "{core.line-height.1500}",
-          "fontSize": "{core.font-size.scaled.1000}"
+          "fontFamily": "{font-family.Trebuchet}",
+          "lineHeight": "{line-height.1500}",
+          "fontSize": "{font-size.scaled.1000}"
         },
         "type": "typography"
       }
@@ -37,33 +37,33 @@
     "mobile": {
       "h1": {
         "value": {
-          "fontFamily": "{core.font-family.Trebuchet}",
-          "lineHeight": "{core.line-height.1750}",
-          "fontSize": "{core.font-size.scaled.1500}"
+          "fontFamily": "{font-family.Trebuchet}",
+          "lineHeight": "{line-height.1750}",
+          "fontSize": "{font-size.scaled.1500}"
         },
         "type": "typography"
       },
       "h2": {
         "value": {
-          "fontFamily": "{core.font-family.Trebuchet}",
-          "lineHeight": "{core.line-height.1500}",
-          "fontSize": "{core.font-size.scaled.1250}"
+          "fontFamily": "{font-family.Trebuchet}",
+          "lineHeight": "{line-height.1500}",
+          "fontSize": "{font-size.scaled.1250}"
         },
         "type": "typography"
       },
       "h3": {
         "value": {
-          "fontFamily": "{core.font-family.Trebuchet}",
-          "lineHeight": "{core.line-height.1750}",
-          "fontSize": "{core.font-size.scaled.1125}"
+          "fontFamily": "{font-family.Trebuchet}",
+          "lineHeight": "{line-height.1750}",
+          "fontSize": "{font-size.scaled.1125}"
         },
         "type": "typography"
       },
       "h4": {
         "value": {
-          "fontFamily": "{core.font-family.Trebuchet}",
-          "lineHeight": "{core.line-height.1500}",
-          "fontSize": "{core.font-size.scaled.1000}"
+          "fontFamily": "{font-family.Trebuchet}",
+          "lineHeight": "{line-height.1500}",
+          "fontSize": "{font-size.scaled.1000}"
         },
         "type": "typography"
       }
