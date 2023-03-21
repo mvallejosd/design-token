@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "core",
+    "global-light",
     "ebiz-palette",
     "ebiz-light",
     "ebiz-dark",
