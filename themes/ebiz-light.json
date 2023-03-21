@@ -1,33 +1,155 @@
 {
-  "base": {
-    "color": {
-      "bg": {
-        "primary": {
-          "value": "{base.color.neutral.50}",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "{base.color.neutral.100}",
-          "type": "color"
-        },
-        "inverse": {
-          "value": "{base.color.indigo.700}",
-          "type": "color"
-        }
+  "color": {
+    "bg": {
+      "primary": {
+        "value": "{base.color.neutral.50}",
+        "type": "color"
       },
-      "fg": {
-        "default": {
-          "value": "{base.color.neutral.700}",
-          "type": "color"
-        },
-        "inverse": {
-          "value": "{base.color.neutral.50}",
-          "type": "color"
-        },
-        "muted": {
-          "value": "{base.color.neutral.600}",
-          "type": "color"
-        }
+      "secondary": {
+        "value": "{base.color.neutral.100}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{base.color.indigo.700}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "primary": {
+        "value": "{base.color.neutral.200}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{base.color.neutral.400}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{base.color.teal.500}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{base.color.coral.700}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.color.autum.700}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{base.color.indigo.500}",
+        "type": "color"
+      }
+    },
+    "focus": {
+      "default": {
+        "value": "{base.color.indigo.500}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{base.color.neutral.50}",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "default": {
+        "value": "{base.color.neutral.700}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{base.color.neutral.50}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{base.color.teal.500}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{base.color.coral.700}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.color.autum.700}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{base.color.indigo.b-400}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{base.color.neutral.400}",
+        "type": "color"
+      }
+    },
+    "surface": {
+      "primary": {
+        "value": "{base.color.neutral.50}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{base.color.neutral.100}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{base.color.indigo.700}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{base.color.teal.50}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{base.color.flamingo.50}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{base.color.brown.50}",
+        "type": "color"
+      },
+      "info": {
+        "value": "{base.color.lavander.50}",
+        "type": "color"
+      }
+    },
+    "fg": {
+      "primary": {
+        "value": "{base.color.neutral.700}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{base.color.neutral.600}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{base.color.indigo.700}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{base.color.neutral.50}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{base.color.neutral.400}",
+        "type": "color"
+      },
+      "error": {
+        "value": "{base.color.coral.700}",
+        "type": "color"
+      }
+    },
+    "link": {
+      "default": {
+        "value": "{base.color.indigo.b-400}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{base.color.neutral.50}",
+        "type": "color"
+      }
+    },
+    "elevation": {
+      "default": {
+        "value": "{base.color.neutral.600}",
+        "type": "color"
       }
     }
   }

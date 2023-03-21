@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "3dc91233e931343cfe6e34943cf7bfabf94257f9",
+    "name": "Light Theme-Ebiz",
+    "selectedTokenSets": {
+      "core": "source",
+      "ebiz-palette": "enabled",
+      "typographyCore": "enabled",
+      "button": "enabled",
+      "ebiz-light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "af45e0ce9816c827c0d6dc6bbc4fcaded43f9222",
+    "name": "Dark Theme-Ebiz",
+    "selectedTokenSets": {
+      "core": "source",
+      "ebiz-palette": "enabled",
+      "ebiz-dark": "enabled",
+      "typographyCore": "enabled",
+      "button": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

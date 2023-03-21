@@ -3,7 +3,7 @@
     "bg": {
       "button": {
         "primary": {
-          "value": "{base.color.fg.muted}",
+          "value": "{color.bg.inverse}",
           "type": "color"
         }
       }
