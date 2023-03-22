@@ -7,7 +7,9 @@
       "ebiz-palette": "enabled",
       "typographyCore": "enabled",
       "button": "enabled",
-      "ebiz-light": "enabled"
+      "ebiz-light": "enabled",
+      "ndc-light": "disabled",
+      "ndc-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -19,7 +21,33 @@
       "ebiz-palette": "enabled",
       "ebiz-dark": "enabled",
       "typographyCore": "enabled",
-      "button": "enabled"
+      "button": "enabled",
+      "ndc-light": "disabled",
+      "ndc-dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "6a0ff2d117309a2c60b48b249586e26dd4391618",
+    "name": "Light Theme-NDC",
+    "selectedTokenSets": {
+      "core": "source",
+      "ebiz-palette": "enabled",
+      "typographyCore": "enabled",
+      "button": "enabled",
+      "ndc-light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "d754be802bb71af523918a48dd0c2dffa88be779",
+    "name": "Dark Theme-NDC",
+    "selectedTokenSets": {
+      "core": "source",
+      "ebiz-palette": "enabled",
+      "typographyCore": "enabled",
+      "button": "enabled",
+      "ndc-dark": "enabled"
     },
     "$figmaStyleReferences": {}
   }
