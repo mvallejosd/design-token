@@ -7,9 +7,7 @@
       "ebiz-palette": "enabled",
       "typographyCore": "enabled",
       "button": "enabled",
-      "ebiz-light": "enabled",
-      "ndc-light": "disabled",
-      "ndc-dark": "disabled"
+      "ebiz-light": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -21,9 +19,7 @@
       "ebiz-palette": "enabled",
       "ebiz-dark": "enabled",
       "typographyCore": "enabled",
-      "button": "enabled",
-      "ndc-light": "disabled",
-      "ndc-dark": "disabled"
+      "button": "enabled"
     },
     "$figmaStyleReferences": {}
   },
