@@ -1,52 +1,23 @@
 [
   {
-    "id": "3dc91233e931343cfe6e34943cf7bfabf94257f9",
-    "name": "Light Theme-Ebiz",
+    "id": "dc26a20d549587a0ef3393e45a15797ba6713536",
+    "name": "Personas LightMode",
     "selectedTokenSets": {
       "core": "source",
-      "typographyCore": "enabled",
-      "button": "enabled",
+      "ebiz-palette": "enabled",
       "personas-light": "enabled",
-      "ebiz-palette": "enabled"
+      "typographyCore": "enabled"
     },
     "$figmaStyleReferences": {}
   },
   {
-    "id": "af45e0ce9816c827c0d6dc6bbc4fcaded43f9222",
-    "name": "Dark Theme-Ebiz",
+    "id": "9d6b0600db84710b4d93e12aa989bc10a9fa9cd8",
+    "name": "NDC LightMode",
     "selectedTokenSets": {
       "core": "source",
-      "ebiz-dark": "enabled",
-      "typographyCore": "enabled",
-      "button": "enabled",
-      "personas-light": "disabled",
-      "ebiz-palette": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "6a0ff2d117309a2c60b48b249586e26dd4391618",
-    "name": "Light Theme-NDC",
-    "selectedTokenSets": {
-      "core": "source",
-      "typographyCore": "enabled",
-      "button": "enabled",
+      "ebiz-palette": "enabled",
       "ndc-light": "enabled",
-      "personas-light": "disabled",
-      "ebiz-palette": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "d754be802bb71af523918a48dd0c2dffa88be779",
-    "name": "Dark Theme-NDC",
-    "selectedTokenSets": {
-      "core": "source",
-      "typographyCore": "enabled",
-      "button": "enabled",
-      "ndc-dark": "enabled",
-      "personas-light": "disabled",
-      "ebiz-palette": "enabled"
+      "typographyCore": "enabled"
     },
     "$figmaStyleReferences": {}
   }

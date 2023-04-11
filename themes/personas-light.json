@@ -225,6 +225,12 @@
           }
         }
       }
+    },
+    "header": {
+      "surface": {
+        "value": "{color._indigo.700}",
+        "type": "color"
+      }
     }
   }
 }
