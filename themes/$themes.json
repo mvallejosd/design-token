@@ -4,10 +4,10 @@
     "name": "Light Theme-Ebiz",
     "selectedTokenSets": {
       "core": "source",
-      "ebiz-palette": "enabled",
       "typographyCore": "enabled",
       "button": "enabled",
-      "ebiz-light": "enabled"
+      "personas-light": "enabled",
+      "ebiz-palette": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -16,10 +16,11 @@
     "name": "Dark Theme-Ebiz",
     "selectedTokenSets": {
       "core": "source",
-      "ebiz-palette": "enabled",
       "ebiz-dark": "enabled",
       "typographyCore": "enabled",
-      "button": "enabled"
+      "button": "enabled",
+      "personas-light": "disabled",
+      "ebiz-palette": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -28,10 +29,11 @@
     "name": "Light Theme-NDC",
     "selectedTokenSets": {
       "core": "source",
-      "ebiz-palette": "enabled",
       "typographyCore": "enabled",
       "button": "enabled",
-      "ndc-light": "enabled"
+      "ndc-light": "enabled",
+      "personas-light": "disabled",
+      "ebiz-palette": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -40,10 +42,11 @@
     "name": "Dark Theme-NDC",
     "selectedTokenSets": {
       "core": "source",
-      "ebiz-palette": "enabled",
       "typographyCore": "enabled",
       "button": "enabled",
-      "ndc-dark": "enabled"
+      "ndc-dark": "enabled",
+      "personas-light": "disabled",
+      "ebiz-palette": "enabled"
     },
     "$figmaStyleReferences": {}
   }
