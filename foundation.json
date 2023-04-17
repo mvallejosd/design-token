@@ -2270,6 +2270,52 @@
           "type": "color"
         }
       }
+    },
+    "elevation": {
+      "bottom": {
+        "value": {
+          "x": "0",
+          "y": "-0.5rem",
+          "blur": "0.5rem",
+          "spread": "0",
+          "color": "{color.alpha.neutral600.08}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "default": {
+        "value": {
+          "x": "0",
+          "y": "0.25rem",
+          "blur": "0.5rem",
+          "spread": "0",
+          "color": "{color.alpha.neutral600.10}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "hover": {
+        "value": {
+          "x": "0",
+          "y": "0.5rem",
+          "blur": "1rem",
+          "spread": "0",
+          "color": "{color.alpha.neutral600.15}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      },
+      "break": {
+        "value": {
+          "x": "0",
+          "y": "1rem",
+          "blur": "2rem",
+          "spread": "0",
+          "color": "{color.alpha.neutral600.25}",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
     }
   },
   "ndc-light": {
